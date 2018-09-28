@@ -25,3 +25,9 @@ on_show = still_on_show()
 
 # Prints and calls function.
 print(on_show)
+
+
+
+
+# for diction in characters[0].keys(): 
+#     print(diction)
